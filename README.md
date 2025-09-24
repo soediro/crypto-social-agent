@@ -1,7 +1,8 @@
 # Hello World fine-tune
 ## Structure
 ### Create your project structure
-```mermaid
+
+```
 crypto-social-agent/
 ├── data/
 │   ├── raw/
